@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-dimashkie&show_icons=true&locale=en" alt="ahmad-dimashkie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-dimashkie&" alt="ahmad-dimashkie" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Dimashkie&" alt="Ahmad-Dimashkie" /></p>
