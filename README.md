@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a centralized platform for AUB students](https://github.com/Georges7Haddad/centralized_platform)
 
-- 👨‍💻 My resume and projects are available at [https://ahmad-dimashkie.github.io/](https://ahmad-dimashkie.github.io/)
+- 👨‍💻 Checkout my website at [https://ahmad-dimashkie.github.io/](https://ahmad-dimashkie.github.io/)
 
 - 📫 How to reach me **ahmad.dimashkie@gmail.com**
 
@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-dimashkie&show_icons=true&locale=en" alt="ahmad-dimashkie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Dimashkie&" alt="Ahmad-Dimashkie" /></p>
