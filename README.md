@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Ahmad Dimashkie</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Dimashkie</h1>
 <h3 align="center">I'm a senior computer engineering student at AUB!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-dimashkie&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-dimashkie" /> </p>
