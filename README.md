@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-dimashkie" alt="ahmad-dimashkie" /></a> </p>
 
-- 🔭 I’m currently working on [a centralized platform for AUB students](https://github.com/Georges7Haddad/centralized_platform)
+- 🔭 I’m currently working on [a centralized platform for AUB students](https://github.com/Georges7Haddad/centralized_platform) and [My Final Year Project](https://github.com/nadermasri/NEUROSHIELD)
 
 - 👨‍💻 Checkout my website at [https://ahmad-dimashkie.github.io/](https://ahmad-dimashkie.github.io/)
 
