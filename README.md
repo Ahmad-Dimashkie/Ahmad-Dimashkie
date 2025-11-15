@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-dimashkie" alt="ahmad-dimashkie" /></a> </p>
 
-- 👨‍💻 Checkout my website at [https://ahmad-dimashkie.github.io/](https://ahmad-dimashkie.github.io/)
+- 💻 Checkout my website at [https://ahmad-dimashkie.github.io/](https://ahmad-dimashkie.github.io/)
+
+- 👨‍💻 Actively looking for Software Engineering jobs in the UK
 
 - 📫 How to reach me **ahmad.dimashkie@gmail.com**
 
