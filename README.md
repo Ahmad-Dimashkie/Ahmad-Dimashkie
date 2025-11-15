@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Dimachkie</h1>
-<h3 align="center">I'm a Senior Computer Engineering Student at AUB!</h3>
+<h3 align="center">I'm a Software Development Engineer at Amazon!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-dimashkie&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-dimashkie" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-dimachkie&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-dimachkie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-dimashkie" alt="ahmad-dimashkie" /></a> </p>
-
-- 🔭 I’m currently working on [a centralized platform for AUB students](https://github.com/Georges7Haddad/centralized_platform) and [My Final Year Project](https://github.com/nadermasri/NEUROSHIELD)
 
 - 👨‍💻 Checkout my website at [https://ahmad-dimashkie.github.io/](https://ahmad-dimashkie.github.io/)
 
